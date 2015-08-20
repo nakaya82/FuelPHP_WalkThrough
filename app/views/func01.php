@@ -5,6 +5,6 @@
 	<title>Hello func01</title>
 </head>
 <body>
-	<p><b>Hello func01!!!!</b></p>
+	<p><b>Hello func01 1.0.1!!!!</b></p>
 </body>
 </html>
